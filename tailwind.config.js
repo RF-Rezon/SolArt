@@ -29,7 +29,7 @@ module.exports = {
       inherit: "inherit",
     },
   },
-  // corePlugins: {
-  //   preflight: false,
-  // },
+  corePlugins: {
+    preflight: false,
+  },
 };
