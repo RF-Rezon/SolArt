@@ -160,7 +160,7 @@ const Contact = () => {
         />
         <div className="absolute h-[0.17%] w-full top-[82.06%] right-[0%] bottom-[17.77%] left-[0%] bg-white" />
         <div className="absolute top-[89.55%] left-[39.1%] leading-[1.56rem]">
-          Copyright by SoluArt © 2022. All rights reserved
+          Copyright by SoluArt © 2023. All rights reserved
         </div>
         <div className="absolute h-[7.32%] w-[2.92%] top-[78.4%] right-[48.54%] bottom-[14.29%] left-[48.54%] rounded-[50%] bg-primary-donkey-brown" />
         <img
