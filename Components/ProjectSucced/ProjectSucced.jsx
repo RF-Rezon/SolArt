@@ -6,22 +6,22 @@ const ProjectSucced = () => {
      <div className="absolute top-[495.06rem] left-[0rem] w-[90rem] h-[24.63rem] text-center text-[1.75rem]">
         <div className="absolute top-[0rem] left-[0rem] bg-primary-donkey-brown w-[90rem] h-[24.63rem]" />
         <img
-          className="absolute top-[3rem] left-[8.19rem] w-[2.47rem] h-[2.49rem] object-contain opacity-[0.2]"
+          className="absolute top-[3rem] left-[8.19rem] w-[2.47rem] h-[2.49rem] object-contain "
           alt=""
           src="/vector-6@2x.png"
         />
         <img
-          className="absolute top-[19.56rem] left-[84.44rem] w-[2.47rem] h-[2.49rem] object-contain opacity-[0.2]"
+          className="absolute top-[19.56rem] left-[84.44rem] w-[2.47rem] h-[2.49rem] object-contain "
           alt=""
           src="/vector-6@2x.png"
         />
         <img
-          className="absolute top-[0.31rem] left-[49.19rem] w-[2.91rem] h-[2.91rem] object-contain opacity-[0.2]"
+          className="absolute top-[0.31rem] left-[49.19rem] w-[2.91rem] h-[2.91rem] object-contain "
           alt=""
           src="/vector-7@2x.png"
         />
         <img
-          className="absolute top-[2.69rem] left-[2.81rem] w-[84.52rem] h-[19.2rem] object-contain opacity-[0.3]"
+          className="absolute top-[2.69rem] left-[2.81rem] w-[84.52rem] h-[19.2rem] object-contain "
           alt=""
           src="/group-38@2x.png"
         />
@@ -50,12 +50,12 @@ const ProjectSucced = () => {
           10
         </b>
         <img
-          className="absolute top-[2.69rem] left-[19.88rem] w-[9.63rem] h-[9.63rem] object-cover opacity-[0.1]"
+          className="absolute top-[2.69rem] left-[19.88rem] w-[9.63rem] h-[9.63rem] object-cover "
           alt=""
           src="/buildingconstructiondesignhomehouseinterioricon1320184072774422773@2x.png"
         />
         <img
-          className="absolute top-[10.94rem] left-[59.56rem] w-[12.5rem] h-[12.5rem] object-cover opacity-[0.1]"
+          className="absolute top-[10.94rem] left-[59.56rem] w-[12.5rem] h-[12.5rem] object-cover "
           alt=""
           src="/3535152200@2x.png"
         />

@@ -30,7 +30,6 @@ const HomePage = () => {
         <Footer />
       </div>
       </div>
-      {/*  */}
     </div>
   );
 };

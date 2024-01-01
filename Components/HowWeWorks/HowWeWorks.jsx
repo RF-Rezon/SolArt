@@ -6,9 +6,9 @@ const HowWeWorks = () => {
       <div className="absolute top-[265.19rem] left-[-7.87rem] w-[97.88rem] h-[45.31rem] text-[1.75rem] text-[transparent]">
         <div className="absolute top-[2.75rem] left-[7.88rem] bg-secondary-dark-gray w-[90rem] h-[42.56rem]" />
         <img
-          className="absolute top-[0rem] left-[0rem] w-[51.01rem] h-[17.46rem] object-contain opacity-[0.3]"
+          className="absolute top-[0rem] left-[0rem] w-[51.01rem] h-[17.46rem] object-contain"
           alt=""
-          src="/vector-2@2x.png"
+          src="/group-18@2x.png"
         />
         <div className="absolute top-[4.94rem] left-[63.5rem] w-[30rem] h-[12.5rem] text-white">
           <div className="absolute top-[0rem] left-[0.13rem] flex flex-row items-center justify-start gap-[1.25rem]">
@@ -105,9 +105,9 @@ const HowWeWorks = () => {
           alt=""
           src="/vector-3@2x.png"
         />
-        <div className="absolute top-[11.56rem] left-[17.56rem] rounded-[50%] bg-white w-[1.88rem] h-[1.88rem] opacity-[0.5]" />
+        <div className="absolute top-[11.56rem] left-[17.56rem] rounded-[50%] bg-white w-[1.88rem] h-[1.88rem]" />
         <img
-          className="absolute top-[9.25rem] left-[38.81rem] w-[2.5rem] h-[2.5rem] object-cover opacity-[0.4]"
+          className="absolute top-[9.25rem] left-[38.81rem] w-[2.5rem] h-[2.5rem] object-cover"
           alt=""
           src="/group-9@2x.png"
         />

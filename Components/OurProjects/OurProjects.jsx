@@ -21,7 +21,7 @@ const OurProjects = () => {
           <img
             className="absolute h-full w-[84.75%] top-[0%] right-[15.25%] bottom-[0%] left-[0%] max-w-full overflow-hidden max-h-full object-cover"
             alt=""
-            src="/rectangle-558@2x.png"
+            src="/b-1.png"
           />
           <div className="absolute h-[21.26%] w-[35.97%] top-[7.72%] right-[0%] bottom-[71.02%] left-[64.03%] bg-primary-dark shadow-[2px_4px_30px_rgba(52,_52,_56,_0.4)]" />
           <div className="absolute h-full w-[84.75%] top-[0%] right-[15.25%] bottom-[0%] left-[0%] [background:linear-gradient(0deg,_#252531,_#09095f_0.01%,_rgba(27,_27,_32,_0)_99.96%)]" />
@@ -57,7 +57,7 @@ const OurProjects = () => {
           <img
             className="absolute h-full w-[84.75%] top-[0%] right-[0%] bottom-[0%] left-[15.25%] max-w-full overflow-hidden max-h-full object-cover"
             alt=""
-            src="/rectangle-567@2x.png"
+            src="/b-2.png"
           />
           <div className="absolute h-[21.26%] w-[35.97%] top-[57.01%] right-[64.03%] bottom-[21.73%] left-[0%] bg-primary-dark shadow-[2px_4px_30px_rgba(52,_52,_56,_0.4)]" />
           <div className="absolute h-full w-[84.75%] top-[0%] right-[0%] bottom-[0%] left-[15.25%] [background:linear-gradient(0deg,_#252531,_#09095f_0.01%,_rgba(27,_27,_32,_0)_99.96%)]" />
@@ -95,7 +95,7 @@ const OurProjects = () => {
             </div>
           </div>
         </div>
-        <div className="absolute top-[102.5rem] left-[35.13rem] rounded-3xs bg-primary-donkey-brown flex flex-row items-start justify-start py-[1.5rem] px-[2.5rem] text-[1.13rem] font-heading-6-18px">
+        <div className="absolute top-[102.5rem] left-[35.13rem] rounded-3xs bg-primary-donkey-brown flex flex-row items-start justify-start py-[1.5rem] px-[2.5rem] text-[1.13rem] font-heading-6-18px cursor-pointer">
           <div className="relative font-medium">Load More</div>
         </div>
       </div>

@@ -55,7 +55,7 @@ const AboutCompany = () => {
         <img
           className="absolute top-[0rem] left-[2.5rem] w-[41.88rem] h-[41.88rem] object-cover"
           alt=""
-          src="/rectangle@2x.png"
+          src="/rectangle-587@2x.png"
         />
       </div>
     </>
